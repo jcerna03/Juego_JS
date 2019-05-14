@@ -320,6 +320,7 @@ function llenarTodos() {
 }
 
 
+
 //Función que crea un nuevo elemento Dulce, asignandole propiedades y atributos correspondientes
 //Asigna las interacciones draggable y droppable con los respectivos callbacks
 function fillElemento(columna, espacios) {
